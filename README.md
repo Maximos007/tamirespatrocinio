@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hello World! 👋
 
 <!--
-**tamirespatrocinio/tamirespatrocinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tamipatro/tamipatro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tamipatro&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamipatro)](https://github.com/tamipatro/github-readme-stats)
