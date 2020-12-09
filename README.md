@@ -17,21 +17,15 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299490-a2f4ae00-de6c-11ea-998a-f695fee11af3.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
 
+<br/>
+<br/>
+
 
 ### Status:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tamirespatrocinio&show_icons=true&theme=radical)
 
 
 
-
-
-
-
-
-
-
-
-### Visitantes:
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
   <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/>
  </a>
