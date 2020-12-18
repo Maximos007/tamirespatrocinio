@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-:mortar_board: Formada em Ciências Biológicas e Cursando Técnico em Informática.<br/>
+:mortar_board: Formada em Ciências Biológicas e Cursando Técnico em Informática - Senac.<br/>
 🔭 Em transição de carreira...<br/>
 ⚡ Hobby: Tomar um café, livros, séries e viajar com os amigos.
 
