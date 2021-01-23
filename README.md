@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World!👋🏼
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador" style="max-width:100%;">
 
