@@ -17,9 +17,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
 <p/>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/)
+[![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinioo@gmail.com)
+
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
   <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
 <br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/)
-[![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinioo@gmail.com)
