@@ -15,11 +15,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299489-a25c1780-de6c-11ea-8285-4f51428783b0.png" width="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
-<p/>
 
-
+</br>
+</br>
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
   <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
-<br/>
+
 
 
