@@ -9,19 +9,34 @@
 </p>
 
 
-### Estudando:
+### Estudando linguagens e ferramentas:
 
-<img align="left" src="https://user-images.githubusercontent.com/39461509/90299491-a2f4ae00-de6c-11ea-81a1-d1fbe537b539.png" width="25" />
-<img align="left" src="https://user-images.githubusercontent.com/39461509/90299489-a25c1780-de6c-11ea-8285-4f51428783b0.png" width="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" />
-<img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</br>
+</br>
+<p align="left"> 
+ <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tamirespatrocinio&layout=compact&theme=gotham" />
+</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 
 ### Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamires-patrocinio/)](https://www.linkedin.com/in/tamires-patrocinio/)
 [![Gmail Badge](https://img.shields.io/badge/-Tamires%20Patrocinio-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirespatrocinioo@gmail.com)](mailto:tamirespatrocinioo@gmail.com)
+
+
 
 <a href= "https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio">
 <img align = "left" src="https://visitor-badge.laobi.icu/badge?page_id=tamirespatrocinio"/></a> 
